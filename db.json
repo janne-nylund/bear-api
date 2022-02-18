@@ -1,0 +1,20 @@
+{
+  "bears": [
+    {
+      "id": 0,
+      "race": "North American Black Bear",
+      "scientificName": "Ursus americanus",
+      "fishInBelly": 0,
+      "Location": ["North-America"],
+      "Weight": 280    
+    },
+    {
+      "id": 1,
+      "race": "Brown Bear",
+      "scientificName": "Ursus Arctos",
+      "fishInBelly": 0,
+      "Location": ["Asia", "Eurasia", "Europe", "North-America"],
+      "Weight": 700    
+    }
+  ]
+}
