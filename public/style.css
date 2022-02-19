@@ -45,11 +45,11 @@ a {
   border-radius: 1px;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1000px) {
   body {
     background-color: rgb(90, 149, 119);
     background-image: url('bear_api.png');
-    background-size: 1000px;
+    background-size: 150%;
     background-position: top;
     background-repeat: no-repeat;
   }
@@ -68,7 +68,7 @@ a {
   .info {
     width: 80%;
     margin: 0 auto;
-    margin-top: 60%;
+    margin-top: 45%;
   }
 
   .pill {
