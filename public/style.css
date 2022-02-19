@@ -1,6 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=PT+Serif:ital,wght@0,400;0,700;1,400&display=swap');
+
 body {
   background-color: rgb(90, 149, 119);
   background-image: url('bear_api.png');
   background-size: contain;
   background-repeat: no-repeat;
+}
+
+h1 {
+  font-family: 'PT Serif';
+  font-size: 2rem;
+}
+
+h3 {
+  font-family: 'PT Sans';
+  font-size: 1.25rem;
+  font-weight: 400;
+}
+
+p {
+  font-family: 'PT Serif';
+  font-size: 1rem;
+}
+
+a {
+  color: #DEE086;
+}
+.info {
+  text-align: center;
+  margin: 30% auto;
+  width: 600px;
+  color: #fff;
+}
+
+.pill {
+  font-family: 'PT Sans';
+  font-size: 0.85rem;
+  font-weight: 700;
+  background-color: azure;
+  color: rgb(90, 149, 119);
+  padding: 5px 10px;
+  margin-right: 10px;
+  border-radius: 1px;
 }
