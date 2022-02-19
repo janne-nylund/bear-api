@@ -5,7 +5,7 @@
       "race": "North American Black Bear",
       "scientificName": "Ursus americanus",
       "fishInBelly": 0,
-      "Location": ["North-America"],
+      "location": ["North-America"],
       "Weight": 280    
     },
     {
@@ -13,7 +13,7 @@
       "race": "Brown Bear",
       "scientificName": "Ursus Arctos",
       "fishInBelly": 0,
-      "Location": ["Asia", "Eurasia", "Europe", "North-America"],
+      "location": ["Asia", "Eurasia", "Europe", "North-America"],
       "Weight": 700    
     },
     {
@@ -21,7 +21,7 @@
       "race": "Polar Bear",
       "scientificName": "Ursus Maritimus",
       "fishInBelly": 0,
-      "Location": ["Eurasia", "Europe", "North-America"],
+      "location": ["Eurasia", "Europe", "North-America"],
       "Weight": 800    
     },
     {
@@ -29,7 +29,7 @@
       "race": "Asiatic black bear",
       "scientificName": "Ursus thibetanus",
       "fishInBelly": 0,
-      "Location": ["Asia", "Eurasia"],
+      "location": ["Asia", "Eurasia"],
       "Weight": 200    
     },
     {
@@ -37,7 +37,7 @@
       "race": "Andean Bear",
       "scientificName": "Tremarctos ornatus",
       "fishInBelly": 0,
-      "Location": ["South America"],
+      "location": ["South America"],
       "Weight": 200    
     },
     {
@@ -45,7 +45,7 @@
       "race": "Panda Bear",
       "scientificName": "Ailuropoda melanoleuca",
       "fishInBelly": 0,
-      "Location": ["Asia"],
+      "location": ["Asia"],
       "Weight": 120    
     },
     {
@@ -53,7 +53,7 @@
       "race": "Sloth bear",
       "scientificName": "Melursus ursinus",
       "fishInBelly": 0,
-      "Location": ["Asia"],
+      "location": ["Asia"],
       "Weight": 140    
     },
     {
@@ -61,7 +61,7 @@
       "race": "Sun Bear",
       "scientificName": "Ursus malayanus",
       "fishInBelly": 0,
-      "Location": ["Asia"],
+      "location": ["Asia"],
       "Weight": 70    
     }
     
