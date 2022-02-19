@@ -26,6 +26,7 @@ p {
 a {
   color: #DEE086;
 }
+
 .info {
   text-align: center;
   margin: 30% auto;
@@ -42,4 +43,42 @@ a {
   padding: 5px 10px;
   margin-right: 10px;
   border-radius: 1px;
+}
+
+@media only screen and (max-width: 900px) {
+  body {
+    background-color: rgb(90, 149, 119);
+    background-image: url('bear_api.png');
+    background-size: 1000px;
+    background-position: top;
+    background-repeat: no-repeat;
+  }
+
+  h1 {
+    font-family: 'PT Sans';
+    font-size: 2rem;
+  }
+
+  h3 {
+    font-family: 'PT Sans';
+    font-size: 1.25rem;
+    font-weight: 400;
+  }
+
+  .info {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 60%;
+  }
+
+  .pill {
+    font-family: 'PT Sans';
+    font-size: 0.85rem;
+    font-weight: 700;
+    background-color: azure;
+    color: rgb(90, 149, 119);
+    padding: 5px 5px;
+    margin-right: 5px;
+    border-radius: 1px;
+  }
 }
