@@ -1,6 +1,6 @@
 !['Bear API'](https://github.com/janne-nylund/bear-api/blob/main/public/bear_api.png?raw=true)
 ## 🐻 My Bear Api 🐻
-==typicode/json-server== __Bear data –__ *easily accessible through a modern RESTful API.* 
+<mark>typicode/json-server</mark> __Bear data –__ *easily accessible through a modern RESTful API.* 
 
 Recources: [/bears](https://bear-api.herokuapp.com/bears)
 
