@@ -2,7 +2,7 @@
 ## 🐻 My Bear Api 🐻
 __Bear data –__ *easily accessible through a modern RESTful API.* 
 
-Recources: https://bear-api.herokuapp.com/bears
+Recources: [/bears](https://bear-api.herokuapp.com/bears)
 
 To access and modify resources, you can use any HTTP method:
 
