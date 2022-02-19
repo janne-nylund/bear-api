@@ -1,5 +1,5 @@
-!['Bear API'](https://github.com/janne-nylund/bear-api/blob/main/public/bear_api.png?raw=true)
-# 🐻 My Bear Api 🐻
+![Bear API](https://github.com/janne-nylund/bear-api/blob/main/public/bear_api.png?raw=true)
+## 🐻 My Bear Api 🐻
 **Bear data – ** *easily accessible through a modern RESTful API.* 
 
 Recources: 
