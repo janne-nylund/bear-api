@@ -2,10 +2,7 @@
 ## 🐻 My Bear Api 🐻
 ### __Bear data –__ *easily accessible through a modern RESTful API.* 
 
-Recources: [/bears](https://bear-api.herokuapp.com/bears) 
-
-`typicode/json-server`
-
+Recources: [/bears](https://bear-api.herokuapp.com/bears) (`typicode/json-server`)
 To access and modify resources, you can use any HTTP method:
 
 `GET` `POST` `PUT` `PATCH` `DELETE` `OPTIONS`
