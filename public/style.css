@@ -2,4 +2,5 @@ body {
   background-color: rgb(90, 149, 119);
   background-image: url('bear_api.png');
   background-size: contain;
+  background-repeat: no-repeat;
 }
