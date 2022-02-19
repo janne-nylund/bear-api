@@ -15,6 +15,55 @@
       "fishInBelly": 0,
       "Location": ["Asia", "Eurasia", "Europe", "North-America"],
       "Weight": 700    
+    },
+    {
+      "id": 2,
+      "race": "Polar Bear",
+      "scientificName": "Ursus Maritimus",
+      "fishInBelly": 0,
+      "Location": ["Eurasia", "Europe", "North-America"],
+      "Weight": 800    
+    },
+    {
+      "id": 3,
+      "race": "Asiatic black bear",
+      "scientificName": "Ursus thibetanus",
+      "fishInBelly": 0,
+      "Location": ["Asia", "Eurasia"],
+      "Weight": 200    
+    },
+    {
+      "id": 4,
+      "race": "Andean Bear",
+      "scientificName": "Tremarctos ornatus",
+      "fishInBelly": 0,
+      "Location": ["South America"],
+      "Weight": 200    
+    },
+    {
+      "id": 5,
+      "race": "Panda Bear",
+      "scientificName": "Ailuropoda melanoleuca",
+      "fishInBelly": 0,
+      "Location": ["Asia"],
+      "Weight": 120    
+    },
+    {
+      "id": 6,
+      "race": "Sloth bear",
+      "scientificName": "Melursus ursinus",
+      "fishInBelly": 0,
+      "Location": ["Asia"],
+      "Weight": 140    
+    },
+    {
+      "id": 7,
+      "race": "Sun Bear",
+      "scientificName": "Ursus malayanus",
+      "fishInBelly": 0,
+      "Location": ["Asia"],
+      "Weight": 70    
     }
+    
   ]
 }
