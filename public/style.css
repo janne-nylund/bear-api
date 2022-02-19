@@ -68,7 +68,8 @@ a {
   .info {
     width: 90%;
     margin: 0 auto;
-    margin-top: 45%;
+    margin-top: 35%;
+    margin-bottom: 5%;
   }
 
   .pill {
