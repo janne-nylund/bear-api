@@ -27,7 +27,7 @@
     let resources = 0
     fetch("https://bear-api.herokuapp.com/bears")
       .then(response => response.json())
-      .then(data => resources = data.bears.length)
+      .then(data => resources = data.length)
       .then(() => document.getElementById('resources').innerHTML = resources)
   </script>
 </body>
