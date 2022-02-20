@@ -46,10 +46,7 @@ a {
   border-radius: 1px;
 }
 
-@media only screen 
-  and (max-device-width: 1400px)
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: landscape) {
+@media only screen and (max-width: 668px) {
   body {
     background-color: rgb(90, 149, 119);
     background-image: url('bear_api.png');
@@ -60,19 +57,19 @@ a {
 
   h1 {
     font-family: 'PT Sans';
-    font-size: 0.55rem;
+    font-size: 1.55rem;
   }
 
   h3 {
     font-family: 'PT Sans';
-    font-size: 1.25rem;
+    font-size: 1.15rem;
     font-weight: 400;
   }
 
   .info {
     width: 90%;
     margin: 0 auto;
-    margin-top: 20%;
+    margin-top: 33%;
   }
 
   .pill {
@@ -88,7 +85,7 @@ a {
 }
 
 
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 376px) {
   body {
     background-color: rgb(90, 149, 119);
     background-image: url('bear_api.png');
