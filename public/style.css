@@ -46,7 +46,11 @@ a {
   border-radius: 1px;
 }
 
-@media all and (orientation:landscape) {
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
   body {
     background-color: rgb(90, 149, 119);
     background-image: url('bear_api.png');
