@@ -12,8 +12,8 @@
   <div class="bg-image"></div>
   <div class="info">
     <h1>JSON Server</h1>
-    <h3>Resources: <span><a href="/bears">/bears</a></span></h3>
-    
+    <h3>Resources: <span><a href="/bears">/bears</a></span> <span class="info-text">(x <span id="resources"></span>)</span></h3>
+
     <p><i>To access and modify resources, you can use any HTTP method:</i></p>
 
     <span class="pill">GET</span>
@@ -23,6 +23,13 @@
     <span class="pill">DELETE</span>
     <span class="pill">OPTIONS</span>
   </div>
+  <script>
+    let resources = 0
+    fetch("../db.json")
+      .then(response => response.json())
+      .then(data => resources = data.bears.length)
+      .then(() => document.getElementById('resources').innerHTML = resources)
+  </script>
 </body>
 
 </html>

@@ -27,6 +27,10 @@ a {
   color: #DEE086;
 }
 
+.info-text {
+  font-size:medium;
+}
+
 .info {
   text-align: center;
   margin: 0 auto;
@@ -70,6 +74,7 @@ a {
     width: 90%;
     margin: 0 auto;
     margin-top: 33%;
+    margin-bottom: 5%;
   }
 
   .pill {
@@ -89,7 +94,7 @@ a {
   body {
     background-color: rgb(90, 149, 119);
     background-image: url('bear_api.png');
-    background-size: 170%;
+    background-size: 190%;
     background-position: top;
     background-repeat: no-repeat;
   }
@@ -97,18 +102,20 @@ a {
   h1 {
     font-family: 'PT Sans';
     font-size: 1.55rem;
+    margin-bottom: 10%;
   }
 
   h3 {
     font-family: 'PT Sans';
     font-size: 1.25rem;
     font-weight: 400;
+    margin-bottom: 30%;
   }
 
   .info {
     width: 90%;
     margin: 0 auto;
-    margin-top: 50%;
+    margin-top: 65%;
   }
 
   .pill {
